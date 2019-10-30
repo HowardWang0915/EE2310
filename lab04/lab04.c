@@ -85,7 +85,7 @@ int main(void)					// main program starts
 					printf("\n    ");
 			}
 		}
-	printf("\n");
+		printf("\n");
 	}
 	else 			// if the number is out of range, print error
 		printf("    Input error, program aborts!\n");
